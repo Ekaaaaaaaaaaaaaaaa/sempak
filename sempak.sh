@@ -4,7 +4,7 @@ apt-get update
 sleep 2
 echo Installing desktop #(xrdp)
 sleep 3
-apt-get install xorg xrdp lxde -y
+#apt-get install xorg xrdp lxde -y
 apt-get install nano -y
 sleep 5
 

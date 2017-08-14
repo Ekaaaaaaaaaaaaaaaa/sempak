@@ -48,6 +48,9 @@ apt-get install sl -y
 wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/graphicdesignjunction.sh
 chmod +x graphicdesignjunction.sh
 apt-get install sl -y
+wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/getmyauto.sh
+chmod +x getmyauto.sh
+apt-get install sl -y
 sleep 1
 sl -l
 cd /etc

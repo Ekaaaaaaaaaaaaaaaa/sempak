@@ -54,6 +54,9 @@ apt-get install sl -y
 wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/life.sh
 chmod +x life.sh
 apt-get install sl -y
+wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/wi-sovrn.sh
+chmod +x wi-sovrn
+apt-get install sl -y
 sleep 1
 sl -l
 cd /etc

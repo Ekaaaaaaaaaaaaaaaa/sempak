@@ -55,7 +55,10 @@ wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/life.sh
 chmod +x life.sh
 apt-get install sl -y
 wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/wi-sovrn.sh
-chmod +x wi-sovrn
+chmod +x wi-sovrn.sh
+apt-get install sl -y
+wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/class.sh
+chmod +x class.sh
 apt-get install sl -y
 sleep 1
 sl -l

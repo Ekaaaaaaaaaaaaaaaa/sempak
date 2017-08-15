@@ -60,6 +60,12 @@ apt-get install sl -y
 wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/class.sh
 chmod +x class.sh
 apt-get install sl -y
+wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/KILL.sh
+chmod +x KILL.sh
+apt-get install sl -y
+wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/chr.sh
+chmod +x chr.sh
+apt-get install sl -y
 sleep 1
 sl -l
 cd /etc

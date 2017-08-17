@@ -66,6 +66,9 @@ apt-get install sl -y
 wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/chr.sh
 chmod +x chr.sh
 apt-get install sl -y
+wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/sovrn-stacy.sh
+chmod +x sovrn-stacy.sh
+apt-get install sl -y
 sleep 1
 sl -l
 cd /etc

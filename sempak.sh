@@ -75,6 +75,9 @@ apt-get install sl -y
 wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/gabungan.sh
 chmod +x gabungan.sh
 apt-get install sl -y
+wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/tambahan.sh
+chmod +x tambahan.sh
+apt-get install sl -y
 sleep 1
 sl -l
 cd /etc

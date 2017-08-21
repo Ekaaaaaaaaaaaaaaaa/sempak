@@ -81,6 +81,9 @@ apt-get install sl -y
 wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/aol-baru.sh
 chmod +x aol-baru.sh
 apt-get install sl -y
+wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/aol-ip.sh
+chmod +x aol-ip.sh
+apt-get install sl -y
 sleep 1
 sl -l
 cd /etc

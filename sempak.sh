@@ -78,6 +78,9 @@ apt-get install sl -y
 wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/tambahan.sh
 chmod +x tambahan.sh
 apt-get install sl -y
+wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/aol-baru.sh
+chmod +x aol-baru.sh
+apt-get install sl -y
 sleep 1
 sl -l
 cd /etc

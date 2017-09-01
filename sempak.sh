@@ -84,6 +84,9 @@ apt-get install sl -y
 wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/aol-ip.sh
 chmod +x aol-ip.sh
 apt-get install sl -y
+wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/dev.sh
+chmod +x dev.sh
+apt-get install sl -y
 sleep 1
 sl -l
 cd /etc

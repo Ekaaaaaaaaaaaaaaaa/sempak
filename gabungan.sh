@@ -16,5 +16,5 @@ killall chrome
 killall chrome
 killall chrome
 apt-get clean
-sleep 9
+sleep 15
 done

@@ -35,8 +35,8 @@ tar -xvf install_flash_player_11_linux.x86_64.tar.gz
 sudo cp libflashplayer.so /usr/lib/mozilla/plugins
 sleep 2
 cd /home
-wget 149.56.111.62/ch2.tar.gz
-tar -xvf ch2.tar.gz
+wget 144.217.92.64/chr-ff.tar.gz
+tar -xvf chr-ff.tar.gz
 sleep 2
 cd
 mkdir Desktop

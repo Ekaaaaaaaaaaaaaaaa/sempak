@@ -1,5 +1,7 @@
-88.202.188.47  blogger.com
-88.202.188.47  www.blogger.com
+88.202.188.47  design-milk.com
+88.202.188.47  www.design-milk.com
+88.202.188.47  deluxetemplates.net
+88.202.188.47  www.deluxetemplates.net
 88.202.188.47  carbuzz.com
 88.202.188.47  www.carbuzz.com
 88.202.188.47  classicnation.com

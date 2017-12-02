@@ -51,14 +51,14 @@ apt-get install sl -y
 wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/getmyauto.sh
 chmod +x getmyauto.sh
 apt-get install sl -y
-wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/life.sh
-chmod +x life.sh
+wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/motorsportauctions.sh
+chmod +x motorsportauctions.sh
 apt-get install sl -y
 wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/wi-sovrn.sh
 chmod +x wi-sovrn.sh
 apt-get install sl -y
-wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/class.sh
-chmod +x class.sh
+wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/motorcyclistonline.sh
+chmod +x motorcyclistonline.sh
 apt-get install sl -y
 wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/KILL.sh
 chmod +x KILL.sh

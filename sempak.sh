@@ -42,8 +42,8 @@ cd
 mkdir Desktop
 cd Desktop
 ####file restarter gilingan
-wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/craftedlife-sovrn.sh
-chmod +x craftedlife-sovrn.sh
+wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/btemplates.sh
+chmod +x btemplates.sh
 apt-get install sl -y
 wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/graphicdesignjunction.sh
 chmod +x graphicdesignjunction.sh

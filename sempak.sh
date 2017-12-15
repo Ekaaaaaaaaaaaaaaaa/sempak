@@ -45,11 +45,11 @@ cd Desktop
 wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/btemplates.sh
 chmod +x btemplates.sh
 apt-get install sl -y
-wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/graphicdesignjunction.sh
-chmod +x graphicdesignjunction.sh
+wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/protemplateslab.sh
+chmod +x protemplateslab.sh
 apt-get install sl -y
-wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/getmyauto.sh
-chmod +x getmyauto.sh
+wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/designsrock.sh
+chmod +x designsrock.sh
 apt-get install sl -y
 wget https://raw.githubusercontent.com/Ekaaaaaaaaaaaaaaaa/sempak/master/motorsportauctions.sh
 chmod +x motorsportauctions.sh
